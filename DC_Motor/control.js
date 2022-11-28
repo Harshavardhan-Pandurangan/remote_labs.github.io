@@ -214,7 +214,7 @@ function drawGraph() {
             legend: { display: false },
             scales: {
                 xAxes: [{ ticks: { min: 0, max: 10 } }],
-                yAxes: [{ ticks: { min: 0, max: 800 } }],
+                yAxes: [{ ticks: { min: 0, max: 600 } }],
                 y: {
                     border: {
                         display: true
