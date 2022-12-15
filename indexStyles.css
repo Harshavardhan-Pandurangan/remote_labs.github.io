@@ -20,7 +20,7 @@ html {
 .net {
     height: 100%;
     width: 100%;
-    background-color: rgb(3, 27, 52);
+    background-color: rgb(100, 100, 100);
     background-image: radial-gradient(farthest-corner at 80% 80%, rgb(20, 20, 205), rgb(154, 10, 200));
     /*rgb(0, 71, 185), rgb(154, 0, 141)*/
     /*rgb(42, 53, 119), rgb(0, 11, 23)*/
